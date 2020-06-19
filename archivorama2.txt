@@ -1,7 +1,12 @@
 saludos ned
 <<<<<<< HEAD
 el buen vecino
+<<<<<<< HEAD
 =======
 el buen vecino
 de homero simpson
+>>>>>>> rama2
+=======
+de homero simpson
+y marge simpson
 >>>>>>> rama2
